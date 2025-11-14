@@ -1,0 +1,11 @@
+[package]
+name = "Sui_Pebex_Vote_Governance"
+version = "0.0.1"
+
+
+[dependencies]
+Sui = {git = "https://github.com/MystenLabs/sui.git"}
+
+[dev-addresses]
+Sui_Pebex_Vote_Governance = "0x0"
+
