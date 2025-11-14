@@ -37,7 +37,7 @@ const Index = () => {
             <img 
               src={pebexLogo} 
               alt="Pebex Logo" 
-              className="w-12 h-12 object-contain"
+              className="w-[86px] h-[86px] object-contain"
             />
             <div>
               <h1 className="text-2xl font-bold text-foreground">Pebex Vote Governance</h1>
